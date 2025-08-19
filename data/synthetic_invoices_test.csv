@@ -1,0 +1,501 @@
+Date,Time,Vendor Name,Invoice Number,Amount,Department,Description
+2025-07-21,03:01:47,Beta LLC,INV-131,5745.07,Finance,Consulting charges
+2025-07-24,03:43:47,Gamma Pvt Ltd,INV-111,4792.6,Marketing,Training session
+2025-07-02,00:05:13,Zed Solutions,INV-164,5971.53,Marketing,Monthly software fee
+2025-07-18,06:45:41,Gamma Pvt Ltd,INV-153,7284.54,Finance,Training session
+2025-07-19,08:51:55,Acme Corp,INV-197,4648.77,Finance,Training session
+2025-07-11,08:09:13,Beta LLC,INV-113,4648.79,HR,Training session
+2025-07-04,11:54:22,Gamma Pvt Ltd,INV-133,7368.82,HR,Training session
+2025-07-18,03:59:24,Acme Corp,INV-170,6151.15,IT,Equipment rental
+2025-07-29,11:36:12,Acme Corp,INV-105,4295.79,Finance,Office supplies
+2025-07-03,07:55:06,Delta Inc,INV-135,5813.84,Operations,Office supplies
+2025-07-06,11:22:13,Beta LLC,INV-189,4304.87,HR,Equipment rental
+2025-07-21,05:34:46,Zed Solutions,INV-120,4301.41,Operations,Training session
+2025-07-09,20:44:35,Zed Solutions,INV-187,5362.94,IT,Monthly software fee
+2025-07-08,01:51:20,Delta Inc,INV-134,2130.08,HR,Consulting charges
+2025-07-30,18:56:45,Beta LLC,INV-127,2412.62,Operations,Training session
+2025-07-29,20:29:09,Beta LLC,INV-117,4156.57,Finance,Equipment rental
+2025-07-18,08:47:37,Delta Inc,INV-174,3480.75,Operations,Office supplies
+2025-07-08,04:32:31,Acme Corp,INV-196,5471.37,HR,Monthly software fee
+2025-07-05,20:10:50,Delta Inc,INV-176,3637.96,HR,Training session
+2025-07-13,19:29:33,Beta LLC,INV-170,2881.54,HR,Monthly software fee
+2025-07-22,17:48:17,Beta LLC,INV-114,7198.47,IT,Training session
+2025-07-06,14:00:46,Beta LLC,INV-164,4661.34,Finance,Equipment rental
+2025-07-30,03:55:40,Beta LLC,INV-181,5101.29,Marketing,Equipment rental
+2025-07-07,04:23:48,Zed Solutions,INV-169,2862.88,Marketing,Monthly software fee
+2025-07-20,10:31:01,Acme Corp,INV-146,4183.43,IT,Consulting charges
+2025-07-02,07:56:36,Acme Corp,INV-110,5166.38,Operations,Monthly software fee
+2025-07-25,17:49:08,Zed Solutions,INV-184,3273.51,Operations,Equipment rental
+2025-07-06,08:33:55,Gamma Pvt Ltd,INV-154,5563.55,Finance,Equipment rental
+2025-07-25,23:44:12,Beta LLC,INV-151,4099.04,IT,Training session
+2025-07-29,16:28:07,Zed Solutions,INV-128,4562.46,HR,Office supplies
+2025-07-01,18:35:14,Gamma Pvt Ltd,INV-128,4097.44,HR,Monthly software fee
+2025-07-23,20:03:14,Acme Corp,INV-104,7778.42,IT,Monthly software fee
+2025-07-17,07:17:42,Delta Inc,INV-127,4979.75,Marketing,Consulting charges
+2025-07-24,18:36:30,Zed Solutions,INV-160,3413.43,Operations,Consulting charges
+2025-07-04,03:42:27,Beta LLC,INV-154,6233.82,Operations,Training session
+2025-07-28,23:03:43,Acme Corp,INV-107,3168.73,Operations,Office supplies
+2025-07-26,03:15:12,Zed Solutions,INV-168,5313.3,Operations,Consulting charges
+2025-07-14,05:17:29,Zed Solutions,INV-109,2060.49,Operations,Equipment rental
+2025-07-04,01:41:34,Acme Corp,INV-111,3007.72,Finance,Consulting charges
+2025-07-14,15:30:13,Delta Inc,INV-107,5295.29,Finance,Training session
+2025-07-01,12:16:59,Delta Inc,INV-136,6107.7,Operations,Equipment rental
+2025-07-22,22:31:09,Zed Solutions,INV-137,5257.05,Finance,Monthly software fee
+2025-07-19,23:34:03,Beta LLC,INV-107,4826.53,HR,Equipment rental
+2025-07-16,16:58:54,Gamma Pvt Ltd,INV-120,4548.34,HR,Equipment rental
+2025-07-03,05:04:38,Acme Corp,INV-186,2782.22,Finance,Training session
+2025-07-04,18:15:37,Gamma Pvt Ltd,INV-105,3920.23,Marketing,Monthly software fee
+2025-07-14,21:37:36,Gamma Pvt Ltd,INV-140,4309.04,IT,Consulting charges
+2025-07-22,22:20:15,Beta LLC,INV-150,6585.68,Finance,Office supplies
+2025-07-15,10:59:48,Acme Corp,INV-101,5515.43,Operations,Equipment rental
+2025-07-19,03:04:34,Zed Solutions,INV-164,2355.44,IT,Consulting charges
+2025-07-30,11:56:04,Zed Solutions,INV-147,5486.13,IT,Consulting charges
+2025-07-15,17:45:19,Gamma Pvt Ltd,INV-183,4422.38,Marketing,Monthly software fee
+2025-07-22,17:19:59,Acme Corp,INV-117,3984.62,IT,Monthly software fee
+2025-07-29,03:47:35,Zed Solutions,INV-134,5917.51,IT,Equipment rental
+2025-07-07,22:21:13,Beta LLC,INV-164,6546.5,Operations,Office supplies
+2025-07-29,01:05:40,Delta Inc,INV-135,6396.92,HR,Monthly software fee
+2025-07-11,04:40:16,Zed Solutions,INV-194,3741.17,Operations,Equipment rental
+2025-07-23,13:35:00,Acme Corp,INV-109,4536.18,Finance,Equipment rental
+2025-07-02,11:37:35,Zed Solutions,INV-155,5496.9,Finance,Monthly software fee
+2025-07-10,11:57:59,Acme Corp,INV-145,6463.32,Finance,Consulting charges
+2025-07-22,03:22:49,Gamma Pvt Ltd,INV-152,4281.24,Marketing,Consulting charges
+2025-07-30,07:55:10,Zed Solutions,INV-152,4721.51,HR,Consulting charges
+2025-07-24,10:50:59,Delta Inc,INV-185,3340.5,Finance,Office supplies
+2025-07-06,22:06:24,Acme Corp,INV-160,3205.69,Finance,Consulting charges
+2025-07-27,14:22:19,Zed Solutions,INV-128,6218.79,HR,Consulting charges
+2025-07-13,10:17:55,Acme Corp,INV-198,7034.36,IT,Office supplies
+2025-07-21,16:25:43,Gamma Pvt Ltd,INV-142,4891.98,HR,Monthly software fee
+2025-07-29,08:11:37,Beta LLC,INV-104,6505.3,HR,Equipment rental
+2025-07-14,11:46:50,Beta LLC,INV-155,5542.45,Marketing,Equipment rental
+2025-07-04,12:57:36,Zed Solutions,INV-132,4032.32,HR,Training session
+2025-07-01,16:59:51,Gamma Pvt Ltd,INV-187,5542.09,Finance,Office supplies
+2025-07-14,02:42:58,Beta LLC,INV-179,7307.05,IT,Monthly software fee
+2025-07-24,09:32:19,Delta Inc,INV-141,4946.26,Operations,Office supplies
+2025-07-18,04:12:26,Delta Inc,INV-186,7346.97,Finance,Equipment rental
+2025-07-19,09:25:35,Acme Corp,INV-138,1070.38,IT,Consulting charges
+2025-07-14,18:38:41,Beta LLC,INV-159,6232.85,Operations,Training session
+2025-07-22,06:32:30,Zed Solutions,INV-184,5130.57,HR,Office supplies
+2025-07-17,21:40:39,Beta LLC,INV-111,4551.49,Finance,Office supplies
+2025-07-08,06:09:01,Acme Corp,INV-131,5137.64,Operations,Equipment rental
+2025-07-28,02:29:26,Gamma Pvt Ltd,INV-124,2018.65,Operations,Training session
+2025-07-13,07:09:41,Acme Corp,INV-196,4670.49,HR,Training session
+2025-07-08,05:51:44,Gamma Pvt Ltd,INV-159,5535.67,HR,Equipment rental
+2025-07-08,03:29:08,Delta Inc,INV-185,7216.84,Marketing,Equipment rental
+2025-07-20,10:48:57,Delta Inc,INV-178,4222.59,Marketing,Training session
+2025-07-27,17:28:57,Zed Solutions,INV-195,3787.26,Operations,Training session
+2025-07-09,07:53:40,Beta LLC,INV-198,4247.36,Marketing,Training session
+2025-07-21,07:17:28,Acme Corp,INV-191,6373.1,IT,Consulting charges
+2025-07-09,10:20:57,Gamma Pvt Ltd,INV-110,5493.13,Finance,Consulting charges
+2025-07-08,12:44:09,Zed Solutions,INV-108,4205.36,Operations,Training session
+2025-07-11,17:29:26,Acme Corp,INV-126,5769.9,Operations,Training session
+2025-07-29,18:44:01,Gamma Pvt Ltd,INV-148,5145.62,Operations,Monthly software fee
+2025-07-31,11:19:48,Delta Inc,INV-153,6452.97,Marketing,Equipment rental
+2025-07-26,19:57:14,Delta Inc,INV-128,3946.92,IT,Training session
+2025-07-16,00:24:21,Delta Inc,INV-192,4508.51,Finance,Training session
+2025-07-30,04:39:34,Acme Corp,INV-150,4411.84,Marketing,Equipment rental
+2025-07-22,00:05:41,Delta Inc,INV-117,2804.73,Operations,Consulting charges
+2025-07-02,08:24:20,Zed Solutions,INV-158,5444.18,IT,Office supplies
+2025-07-25,12:17:48,Delta Inc,INV-132,5391.58,HR,Training session
+2025-07-01,23:34:03,Beta LLC,INV-128,5007.67,HR,Monthly software fee
+2025-07-25,00:15:12,Acme Corp,INV-179,4648.12,Finance,Consulting charges
+2025-07-05,15:42:07,Gamma Pvt Ltd,INV-127,2876.94,Operations,Office supplies
+2025-07-25,11:10:38,Gamma Pvt Ltd,INV-195,4369.03,HR,Consulting charges
+2025-07-31,09:06:37,Acme Corp,INV-139,4485.93,Marketing,Training session
+2025-07-13,22:12:04,Gamma Pvt Ltd,INV-188,3796.58,Finance,Monthly software fee
+2025-07-23,09:54:43,Gamma Pvt Ltd,INV-115,4758.07,Marketing,Monthly software fee
+2025-07-12,17:27:42,Beta LLC,INV-108,5606.08,Marketing,Office supplies
+2025-07-01,13:52:31,Acme Corp,INV-155,7829.28,IT,Training session
+2025-07-23,04:27:11,Gamma Pvt Ltd,INV-183,5261.87,IT,Equipment rental
+2025-07-26,17:49:30,Delta Inc,INV-155,5386.33,Marketing,Office supplies
+2025-07-11,07:53:59,Acme Corp,INV-135,4888.33,Operations,Consulting charges
+2025-07-25,14:36:39,Delta Inc,INV-143,2121.84,HR,Training session
+2025-07-28,10:11:31,Zed Solutions,INV-145,4960.23,IT,Office supplies
+2025-07-09,19:44:56,Beta LLC,INV-171,5090.35,HR,Equipment rental
+2025-07-31,06:05:15,Delta Inc,INV-162,8694.86,Marketing,Consulting charges
+2025-07-23,15:41:45,Delta Inc,INV-157,4711.46,HR,Monthly software fee
+2025-07-10,07:25:44,Zed Solutions,INV-139,5452.32,Marketing,Office supplies
+2025-07-16,17:33:22,Delta Inc,INV-195,4947.93,Marketing,Office supplies
+2025-07-12,22:29:17,Beta LLC,INV-132,3246.98,Finance,Monthly software fee
+2025-07-24,06:20:07,Gamma Pvt Ltd,INV-197,6714.23,Finance,Consulting charges
+2025-07-07,23:30:17,Gamma Pvt Ltd,INV-197,6127.9,Marketing,Equipment rental
+2025-07-10,03:53:12,Beta LLC,INV-129,6186.55,IT,Consulting charges
+2025-07-10,00:45:34,Zed Solutions,INV-135,3635.92,HR,Monthly software fee
+2025-07-18,09:44:08,Delta Inc,INV-113,7104.19,HR,Equipment rental
+2025-07-10,15:30:28,Beta LLC,INV-123,2897.22,HR,Office supplies
+2025-07-31,15:07:52,Acme Corp,INV-151,5880.29,Operations,Monthly software fee
+2025-07-19,20:43:03,Zed Solutions,INV-119,8285.68,Marketing,Office supplies
+2025-07-03,07:07:35,Delta Inc,INV-177,3514.2,Marketing,Equipment rental
+2025-07-08,16:24:28,Delta Inc,INV-138,4150.55,Marketing,Training session
+2025-07-10,18:39:03,Gamma Pvt Ltd,INV-194,5149.48,HR,Consulting charges
+2025-07-21,06:16:42,Acme Corp,INV-120,4244.79,Finance,Consulting charges
+2025-07-18,02:10:00,Delta Inc,INV-157,2674.0,Marketing,Training session
+2025-07-10,01:14:18,Beta LLC,INV-189,5102.84,Operations,Monthly software fee
+2025-07-22,07:59:16,Gamma Pvt Ltd,INV-184,3406.54,Finance,Training session
+2025-07-04,17:14:41,Zed Solutions,INV-134,5710.39,Finance,Monthly software fee
+2025-07-02,05:50:19,Gamma Pvt Ltd,INV-195,3620.86,Marketing,Office supplies
+2025-07-15,03:29:44,Beta LLC,INV-189,7324.9,Operations,Office supplies
+2025-07-17,17:31:28,Acme Corp,INV-176,3825.12,HR,Training session
+2025-07-24,10:38:16,Acme Corp,INV-111,4516.91,Finance,Equipment rental
+2025-07-19,00:48:43,Beta LLC,INV-173,6220.28,HR,Consulting charges
+2025-07-16,16:41:28,Beta LLC,INV-123,3153.7,Marketing,Training session
+2025-07-21,15:05:30,Beta LLC,INV-152,5341.19,IT,Office supplies
+2025-07-22,03:54:10,Beta LLC,INV-152,6960.71,Operations,Office supplies
+2025-07-22,12:52:48,Gamma Pvt Ltd,INV-104,2588.78,Operations,Monthly software fee
+2025-07-11,08:20:07,Delta Inc,INV-165,5276.95,HR,Equipment rental
+2025-07-15,13:03:12,Gamma Pvt Ltd,INV-146,5389.82,Marketing,Training session
+2025-07-21,14:48:03,Zed Solutions,INV-134,6172.73,Marketing,Consulting charges
+2025-07-30,09:28:56,Delta Inc,INV-115,3144.57,HR,Equipment rental
+2025-07-26,07:45:10,Beta LLC,INV-170,3019.32,HR,Equipment rental
+2025-07-14,02:14:53,Acme Corp,INV-159,5782.91,HR,Consulting charges
+2025-07-16,22:18:32,Beta LLC,INV-153,5445.48,Operations,Training session
+2025-07-08,14:35:09,Delta Inc,INV-124,5375.74,Marketing,Equipment rental
+2025-07-24,04:55:04,Beta LLC,INV-198,5519.67,Operations,Office supplies
+2025-07-30,16:17:52,Acme Corp,INV-136,3979.96,IT,Equipment rental
+2025-07-19,21:31:55,Zed Solutions,INV-157,5348.38,Marketing,Training session
+2025-07-12,10:35:48,Gamma Pvt Ltd,INV-148,5439.61,Operations,Office supplies
+2025-07-28,06:44:15,Gamma Pvt Ltd,INV-149,3928.47,Finance,Training session
+2025-07-02,10:47:30,Delta Inc,INV-149,7798.66,Finance,Training session
+2025-07-31,01:08:32,Gamma Pvt Ltd,INV-142,5710.75,HR,Training session
+2025-07-04,16:58:29,Acme Corp,INV-192,3213.04,Finance,Training session
+2025-07-28,20:09:04,Delta Inc,INV-133,5984.83,IT,Equipment rental
+2025-07-23,12:41:05,Beta LLC,INV-186,3537.98,Marketing,Training session
+2025-07-31,10:40:45,Delta Inc,INV-169,6180.63,HR,Equipment rental
+2025-07-03,07:40:43,Beta LLC,INV-129,6737.89,HR,Training session
+2025-07-04,20:45:55,Acme Corp,INV-156,3768.98,Finance,Office supplies
+2025-07-29,00:02:20,Acme Corp,INV-137,6445.06,IT,Office supplies
+2025-07-14,04:15:33,Delta Inc,INV-172,5619.17,Finance,Consulting charges
+2025-07-06,02:39:55,Delta Inc,INV-179,6233.09,Finance,Training session
+2025-07-30,18:09:14,Delta Inc,INV-181,7845.19,IT,Training session
+2025-07-09,21:00:57,Delta Inc,INV-136,4631.92,Marketing,Consulting charges
+2025-07-03,14:22:37,Beta LLC,INV-181,3869.4,Operations,Office supplies
+2025-07-15,09:12:24,Delta Inc,INV-113,3665.73,Finance,Training session
+2025-07-19,11:36:18,Beta LLC,INV-102,3776.28,Operations,Office supplies
+2025-07-01,18:55:43,Acme Corp,INV-177,4884.35,Operations,Office supplies
+2025-07-25,07:38:51,Beta LLC,INV-128,5511.73,Finance,Equipment rental
+2025-07-09,21:48:46,Zed Solutions,INV-180,5415.04,HR,Monthly software fee
+2025-07-10,14:02:37,Beta LLC,INV-193,6240.77,Finance,Monthly software fee
+2025-07-30,09:20:47,Delta Inc,INV-122,5019.5,Finance,Consulting charges
+2025-07-26,17:56:23,Gamma Pvt Ltd,INV-164,7180.3,IT,Consulting charges
+2025-07-09,15:51:18,Beta LLC,INV-114,4603.01,Operations,Monthly software fee
+2025-07-05,07:55:43,Delta Inc,INV-171,9080.25,IT,Monthly software fee
+2025-07-26,12:00:16,Gamma Pvt Ltd,INV-115,5938.5,Operations,Office supplies
+2025-07-22,23:43:16,Gamma Pvt Ltd,INV-148,3714.26,IT,Monthly software fee
+2025-07-22,07:30:01,Gamma Pvt Ltd,INV-171,3393.66,IT,Equipment rental
+2025-07-08,20:04:40,Delta Inc,INV-189,5723.71,IT,Training session
+2025-07-04,04:02:02,Beta LLC,INV-163,4664.81,HR,Monthly software fee
+2025-07-08,17:08:24,Delta Inc,INV-147,6071.0,Marketing,Training session
+2025-07-19,23:46:09,Delta Inc,INV-183,5709.86,HR,Training session
+2025-07-20,13:17:02,Beta LLC,INV-127,4890.76,Operations,Training session
+2025-07-31,07:54:23,Acme Corp,INV-187,3729.81,IT,Equipment rental
+2025-07-29,20:22:03,Delta Inc,INV-135,2727.73,Finance,Monthly software fee
+2025-07-31,14:05:42,Zed Solutions,INV-182,4330.23,Marketing,Monthly software fee
+2025-07-02,10:15:08,Gamma Pvt Ltd,INV-126,6284.6,HR,Equipment rental
+2025-07-07,18:13:52,Zed Solutions,INV-142,5321.14,Finance,Equipment rental
+2025-07-01,08:54:09,Zed Solutions,INV-169,3131.39,IT,Consulting charges
+2025-07-04,21:55:01,Zed Solutions,INV-101,5259.77,IT,Consulting charges
+2025-07-19,10:01:11,Beta LLC,INV-106,5577.98,Finance,Training session
+2025-07-17,03:47:04,Delta Inc,INV-157,3674.21,IT,Equipment rental
+2025-07-19,03:28:32,Zed Solutions,INV-178,5230.59,HR,Equipment rental
+2025-07-10,14:41:01,Acme Corp,INV-161,5087.31,Operations,Training session
+2025-07-22,03:31:45,Delta Inc,INV-109,3285.54,HR,Office supplies
+2025-07-20,04:04:08,Beta LLC,INV-179,5536.68,Marketing,Equipment rental
+2025-07-23,10:24:38,Gamma Pvt Ltd,INV-137,5841.18,Operations,Equipment rental
+2025-07-20,13:06:50,Acme Corp,INV-183,6624.58,Marketing,Consulting charges
+2025-07-14,14:56:14,Delta Inc,INV-143,6580.7,Operations,Training session
+2025-07-14,23:06:20,Delta Inc,INV-140,2933.5,IT,Office supplies
+2025-07-31,04:43:59,Delta Inc,INV-108,3593.26,HR,Monthly software fee
+2025-07-03,13:06:47,Beta LLC,INV-116,5772.55,Marketing,Monthly software fee
+2025-07-19,17:35:21,Acme Corp,INV-152,5770.68,IT,Training session
+2025-07-28,23:03:18,Gamma Pvt Ltd,INV-139,5772.57,IT,Monthly software fee
+2025-07-19,16:13:09,Delta Inc,INV-128,10779.1,HR,Office supplies
+2025-07-28,17:23:07,Beta LLC,INV-173,5856.34,Finance,Training session
+2025-07-28,17:49:52,Gamma Pvt Ltd,INV-178,6703.35,Marketing,Monthly software fee
+2025-07-20,21:53:44,Beta LLC,INV-103,6431.0,Finance,Office supplies
+2025-07-23,09:58:21,Beta LLC,INV-100,5977.09,Finance,Consulting charges
+2025-07-19,21:25:04,Zed Solutions,INV-194,4527.1,HR,Monthly software fee
+2025-07-24,16:13:24,Delta Inc,INV-158,6138.45,IT,Consulting charges
+2025-07-12,09:46:20,Gamma Pvt Ltd,INV-176,3840.76,HR,Monthly software fee
+2025-07-05,05:48:39,Acme Corp,INV-186,4644.77,HR,Office supplies
+2025-07-15,21:27:31,Gamma Pvt Ltd,INV-156,4271.95,Operations,Office supplies
+2025-07-07,16:07:22,Delta Inc,INV-114,5122.81,IT,Equipment rental
+2025-07-16,16:42:19,Acme Corp,INV-128,8471.99,Operations,Equipment rental
+2025-07-02,00:13:19,Zed Solutions,INV-198,2199.1,Finance,Office supplies
+2025-07-10,10:07:00,Delta Inc,INV-195,6029.39,Operations,Consulting charges
+2025-07-05,12:34:45,Zed Solutions,INV-164,2580.93,Marketing,Office supplies
+2025-07-03,12:55:47,Acme Corp,INV-155,4292.1,HR,Training session
+2025-07-30,02:55:20,Gamma Pvt Ltd,INV-154,6633.43,Marketing,Training session
+2025-07-23,20:26:18,Acme Corp,INV-151,5096.42,HR,Office supplies
+2025-07-06,19:29:53,Beta LLC,INV-111,3383.38,Operations,Monthly software fee
+2025-07-08,13:37:25,Gamma Pvt Ltd,INV-110,3927.04,Operations,Office supplies
+2025-07-24,10:14:21,Zed Solutions,INV-109,6019.4,Marketing,Monthly software fee
+2025-07-17,16:12:57,Beta LLC,INV-144,3904.45,Finance,Consulting charges
+2025-07-04,04:16:12,Zed Solutions,INV-177,5324.69,Finance,Monthly software fee
+2025-07-06,20:31:29,Gamma Pvt Ltd,INV-197,5068.36,Marketing,Training session
+2025-07-22,18:41:40,Gamma Pvt Ltd,INV-141,4022.6,IT,Consulting charges
+2025-07-15,02:30:28,Beta LLC,INV-135,8215.92,Marketing,Monthly software fee
+2025-07-12,16:04:19,Delta Inc,INV-157,5950.88,HR,Monthly software fee
+2025-07-12,09:04:41,Acme Corp,INV-178,1962.29,Marketing,Equipment rental
+2025-07-13,14:37:35,Acme Corp,INV-157,5279.68,Marketing,Consulting charges
+2025-07-11,19:30:32,Zed Solutions,INV-107,4007.32,Operations,Monthly software fee
+2025-07-26,10:45:05,Gamma Pvt Ltd,INV-182,6278.65,Finance,Monthly software fee
+2025-07-08,22:28:28,Gamma Pvt Ltd,INV-166,3811.22,Marketing,Consulting charges
+2025-07-12,11:58:18,Delta Inc,INV-152,4827.9,IT,Equipment rental
+2025-07-02,20:41:21,Acme Corp,INV-142,5757.48,HR,Equipment rental
+2025-07-22,12:18:16,Gamma Pvt Ltd,INV-119,6298.63,IT,Monthly software fee
+2025-07-19,21:09:58,Beta LLC,INV-139,3199.56,Operations,Consulting charges
+2025-07-20,22:05:19,Gamma Pvt Ltd,INV-148,4498.25,IT,Consulting charges
+2025-07-22,22:53:47,Gamma Pvt Ltd,INV-111,4287.58,Operations,Equipment rental
+2025-07-12,00:23:19,Zed Solutions,INV-127,4020.01,IT,Training session
+2025-07-07,07:08:09,Acme Corp,INV-137,7648.18,HR,Equipment rental
+2025-07-25,17:53:47,Gamma Pvt Ltd,INV-104,5607.47,IT,Equipment rental
+2025-07-05,19:24:09,Zed Solutions,INV-123,3108.67,Marketing,Consulting charges
+2025-07-24,14:02:26,Beta LLC,INV-186,6376.79,Finance,Training session
+2025-07-20,09:48:47,Delta Inc,INV-129,8183.23,Marketing,Consulting charges
+2025-07-10,15:57:53,Zed Solutions,INV-147,6548.7,Marketing,Training session
+2025-07-15,09:49:24,Gamma Pvt Ltd,INV-167,2720.95,Operations,Consulting charges
+2025-07-27,06:51:38,Zed Solutions,INV-132,4273.65,HR,Training session
+2025-07-28,11:35:59,Acme Corp,INV-191,6900.37,Marketing,Monthly software fee
+2025-07-10,02:48:10,Beta LLC,INV-157,3938.5,Marketing,Consulting charges
+2025-07-27,13:05:58,Zed Solutions,INV-157,5665.73,IT,Monthly software fee
+2025-07-14,01:25:32,Beta LLC,INV-130,6161.95,Operations,Monthly software fee
+2025-07-12,07:01:20,Acme Corp,INV-191,3609.6,IT,Consulting charges
+2025-07-05,01:18:58,Delta Inc,INV-189,4910.71,Finance,Training session
+2025-07-15,19:00:57,Acme Corp,INV-102,138.1,IT,Consulting charges
+2025-07-27,04:35:46,Gamma Pvt Ltd,INV-167,3463.42,Operations,Monthly software fee
+2025-07-25,09:15:19,Acme Corp,INV-106,4621.15,Finance,Training session
+2025-07-21,19:29:04,Acme Corp,INV-163,3128.33,Marketing,Equipment rental
+2025-07-01,20:32:36,Zed Solutions,INV-191,7448.62,Finance,Office supplies
+2025-07-14,00:39:22,Zed Solutions,INV-173,2854.79,Operations,Consulting charges
+2025-07-22,21:05:33,Beta LLC,INV-108,4339.93,Marketing,Equipment rental
+2025-07-17,16:35:01,Delta Inc,INV-160,5196.11,HR,Training session
+2025-07-12,08:47:01,Beta LLC,INV-108,7161.91,IT,Consulting charges
+2025-07-24,21:40:06,Gamma Pvt Ltd,INV-194,2846.21,IT,Consulting charges
+2025-07-02,11:34:21,Zed Solutions,INV-199,6744.75,Operations,Training session
+2025-07-21,05:51:08,Acme Corp,INV-191,5015.35,Operations,Monthly software fee
+2025-07-10,06:02:50,Zed Solutions,INV-105,3527.74,IT,Office supplies
+2025-07-17,12:52:34,Delta Inc,INV-132,5693.16,HR,Consulting charges
+2025-07-10,11:55:49,Acme Corp,INV-183,5298.59,IT,Office supplies
+2025-07-04,11:27:56,Delta Inc,INV-195,4099.67,Operations,Training session
+2025-07-11,05:31:44,Delta Inc,INV-147,5104.7,Marketing,Office supplies
+2025-07-26,02:46:27,Acme Corp,INV-155,4422.03,Marketing,Consulting charges
+2025-07-18,09:20:06,Acme Corp,INV-141,5170.28,IT,Office supplies
+2025-07-15,19:45:27,Zed Solutions,INV-188,5993.2,Operations,Office supplies
+2025-07-15,01:46:55,Beta LLC,INV-178,7379.03,Operations,Office supplies
+2025-07-21,01:04:42,Delta Inc,INV-146,3143.28,Marketing,Consulting charges
+2025-07-31,00:09:54,Gamma Pvt Ltd,INV-186,8199.55,Operations,Monthly software fee
+2025-07-05,02:15:49,Beta LLC,INV-146,2071.87,Operations,Equipment rental
+2025-07-02,19:09:43,Delta Inc,INV-147,4772.32,IT,Training session
+2025-07-25,02:36:08,Gamma Pvt Ltd,INV-146,5882.48,Operations,Office supplies
+2025-07-21,08:15:07,Acme Corp,INV-194,5421.49,Finance,Training session
+2025-07-17,12:58:35,Acme Corp,INV-133,4065.95,IT,Training session
+2025-07-07,19:18:44,Delta Inc,INV-125,4687.82,HR,Consulting charges
+2025-07-28,02:28:11,Delta Inc,INV-111,4260.5,IT,Office supplies
+2025-07-23,02:35:34,Beta LLC,INV-138,4115.95,Finance,Consulting charges
+2025-07-26,11:32:14,Acme Corp,INV-125,6274.4,Finance,Consulting charges
+2025-07-26,15:01:23,Gamma Pvt Ltd,INV-173,5535.52,IT,Training session
+2025-07-26,17:08:39,Acme Corp,INV-108,3960.64,IT,Training session
+2025-07-23,23:30:33,Delta Inc,INV-198,6349.4,Operations,Equipment rental
+2025-07-03,04:20:41,Acme Corp,INV-157,5460.95,Operations,Equipment rental
+2025-07-12,04:56:53,Gamma Pvt Ltd,INV-181,6219.29,Marketing,Consulting charges
+2025-07-25,04:27:32,Acme Corp,INV-115,5944.44,Marketing,Consulting charges
+2025-07-10,05:10:20,Zed Solutions,INV-144,3756.51,Marketing,Office supplies
+2025-07-28,02:16:12,Gamma Pvt Ltd,INV-135,4159.73,Finance,Office supplies
+2025-07-20,17:05:32,Zed Solutions,INV-175,6120.94,Marketing,Consulting charges
+2025-07-06,21:39:46,Gamma Pvt Ltd,INV-143,5915.56,Marketing,Monthly software fee
+2025-07-27,00:05:02,Gamma Pvt Ltd,INV-133,4968.65,Finance,Equipment rental
+2025-07-14,19:40:01,Delta Inc,INV-180,5175.99,Marketing,Office supplies
+2025-07-21,09:30:15,Delta Inc,INV-138,6916.5,Operations,Monthly software fee
+2025-07-23,01:10:28,Delta Inc,INV-161,4112.64,Operations,Consulting charges
+2025-07-11,19:09:20,Beta LLC,INV-193,5820.65,IT,Training session
+2025-07-05,11:32:35,Acme Corp,INV-140,4696.71,Finance,Training session
+2025-07-04,08:28:15,Zed Solutions,INV-112,4673.48,HR,Office supplies
+2025-07-31,12:55:39,Delta Inc,INV-131,6648.17,Finance,Office supplies
+2025-07-30,18:46:20,Zed Solutions,INV-197,6238.12,Finance,Training session
+2025-07-17,14:31:56,Beta LLC,INV-163,6220.26,HR,Monthly software fee
+2025-07-31,12:32:29,Zed Solutions,INV-127,6958.22,Marketing,Office supplies
+2025-07-02,01:18:31,Gamma Pvt Ltd,INV-183,5031.51,Operations,Office supplies
+2025-07-18,00:54:06,Delta Inc,INV-117,6022.93,IT,Office supplies
+2025-07-25,12:23:02,Delta Inc,INV-106,4534.6,Marketing,Equipment rental
+2025-07-07,11:35:18,Acme Corp,INV-149,5486.25,Marketing,Training session
+2025-07-25,17:17:52,Gamma Pvt Ltd,INV-187,4804.79,Marketing,Monthly software fee
+2025-07-05,03:25:23,Beta LLC,INV-171,5145.49,IT,Consulting charges
+2025-07-07,19:32:25,Gamma Pvt Ltd,INV-105,5892.74,HR,Monthly software fee
+2025-07-05,22:21:51,Delta Inc,INV-166,3772.67,Operations,Consulting charges
+2025-07-20,16:08:20,Gamma Pvt Ltd,INV-140,8138.58,Finance,Training session
+2025-07-20,23:53:19,Gamma Pvt Ltd,INV-143,3490.97,Marketing,Equipment rental
+2025-07-18,15:45:36,Beta LLC,INV-160,3178.72,HR,Office supplies
+2025-07-11,21:07:26,Gamma Pvt Ltd,INV-139,6737.17,HR,Equipment rental
+2025-07-16,08:41:50,Gamma Pvt Ltd,INV-173,6187.49,Finance,Monthly software fee
+2025-07-19,15:10:33,Gamma Pvt Ltd,INV-199,5936.18,Operations,Consulting charges
+2025-07-27,21:15:02,Gamma Pvt Ltd,INV-189,5942.52,HR,Consulting charges
+2025-07-01,14:20:26,Zed Solutions,INV-152,4981.63,Finance,Training session
+2025-07-17,19:58:30,Acme Corp,INV-190,3654.12,Finance,Equipment rental
+2025-07-07,17:20:42,Delta Inc,INV-167,5113.71,Operations,Office supplies
+2025-07-31,05:29:58,Gamma Pvt Ltd,INV-143,3984.26,Marketing,Office supplies
+2025-07-22,23:43:41,Beta LLC,INV-178,6462.68,Operations,Consulting charges
+2025-07-31,07:17:35,Beta LLC,INV-128,4779.41,IT,Office supplies
+2025-07-23,06:44:45,Delta Inc,INV-140,3761.75,Operations,Office supplies
+2025-07-18,23:17:18,Acme Corp,INV-173,4517.92,Marketing,Training session
+2025-07-29,12:52:22,Zed Solutions,INV-137,5619.4,HR,Office supplies
+2025-07-31,22:05:22,Delta Inc,INV-183,4154.41,IT,Training session
+2025-07-07,06:52:34,Beta LLC,INV-171,3766.67,IT,Consulting charges
+2025-07-04,19:47:37,Zed Solutions,INV-131,5365.53,HR,Equipment rental
+2025-07-08,20:14:03,Acme Corp,INV-152,5367.45,IT,Training session
+2025-07-04,21:49:08,Acme Corp,INV-170,4239.59,Finance,Training session
+2025-07-21,15:30:41,Zed Solutions,INV-196,4293.44,IT,Office supplies
+2025-07-10,20:03:58,Acme Corp,INV-183,5348.07,Marketing,Consulting charges
+2025-07-18,23:46:54,Acme Corp,INV-122,2827.87,Operations,Consulting charges
+2025-07-30,01:53:25,Delta Inc,INV-123,2888.8,IT,Monthly software fee
+2025-07-01,09:36:38,Acme Corp,INV-142,3922.33,IT,Training session
+2025-07-21,17:33:31,Zed Solutions,INV-164,4679.83,Operations,Office supplies
+2025-07-07,03:21:10,Delta Inc,INV-182,5466.36,IT,Consulting charges
+2025-07-01,23:21:50,Beta LLC,INV-172,7213.03,Finance,Consulting charges
+2025-07-20,20:57:25,Delta Inc,INV-165,6286.49,IT,Monthly software fee
+2025-07-13,21:06:11,Zed Solutions,INV-161,4760.09,IT,Consulting charges
+2025-07-01,08:24:15,Delta Inc,INV-196,4971.48,IT,Office supplies
+2025-07-10,18:46:36,Acme Corp,INV-133,3496.21,IT,Consulting charges
+2025-07-02,21:07:29,Beta LLC,INV-120,4972.23,Operations,Equipment rental
+2025-07-30,22:49:19,Acme Corp,INV-181,4567.01,IT,Office supplies
+2025-07-20,07:14:08,Delta Inc,INV-119,5484.08,Operations,Equipment rental
+2025-07-12,13:44:35,Delta Inc,INV-196,3759.15,Marketing,Consulting charges
+2025-07-25,07:43:48,Gamma Pvt Ltd,INV-110,5779.02,Marketing,Training session
+2025-07-17,22:23:04,Gamma Pvt Ltd,INV-114,7299.11,HR,Equipment rental
+2025-07-29,16:12:36,Gamma Pvt Ltd,INV-119,4836.86,Finance,Office supplies
+2025-07-28,16:28:07,Zed Solutions,INV-191,5602.57,Marketing,Training session
+2025-07-03,16:28:51,Acme Corp,INV-158,6035.22,Finance,Equipment rental
+2025-07-14,14:36:03,Gamma Pvt Ltd,INV-159,4398.17,IT,Monthly software fee
+2025-07-13,08:52:00,Zed Solutions,INV-174,5336.14,HR,Monthly software fee
+2025-07-14,11:44:04,Gamma Pvt Ltd,INV-107,5018.89,HR,Training session
+2025-07-02,09:26:11,Zed Solutions,INV-198,5146.51,Operations,Office supplies
+2025-07-29,12:28:55,Delta Inc,INV-148,3840.49,HR,Equipment rental
+2025-07-05,20:55:22,Acme Corp,INV-122,5036.77,Marketing,Training session
+2025-07-17,04:46:14,Acme Corp,INV-196,5747.0,HR,Office supplies
+2025-07-15,21:46:34,Delta Inc,INV-168,7176.72,Operations,Consulting charges
+2025-07-08,14:22:09,Beta LLC,INV-124,6438.91,HR,Monthly software fee
+2025-07-26,21:26:39,Acme Corp,INV-130,8229.77,Finance,Monthly software fee
+2025-07-04,19:02:28,Gamma Pvt Ltd,INV-186,3848.98,HR,Consulting charges
+2025-07-24,01:25:28,Zed Solutions,INV-169,6308.48,Finance,Monthly software fee
+2025-07-05,16:18:14,Gamma Pvt Ltd,INV-140,5275.01,Marketing,Equipment rental
+2025-07-25,21:52:20,Zed Solutions,INV-138,8284.7,Finance,Equipment rental
+2025-07-08,13:19:17,Acme Corp,INV-171,3787.55,Marketing,Consulting charges
+2025-07-21,21:27:35,Delta Inc,INV-106,3740.42,IT,Training session
+2025-07-26,16:20:44,Delta Inc,INV-152,4100.91,Finance,Office supplies
+2025-07-13,05:48:34,Delta Inc,INV-130,1814.16,Finance,Office supplies
+2025-07-28,22:09:51,Delta Inc,INV-107,4211.37,Marketing,Training session
+2025-07-31,13:35:33,Zed Solutions,INV-149,3861.3,Finance,Office supplies
+2025-07-07,10:41:05,Delta Inc,INV-147,5225.59,HR,Equipment rental
+2025-07-24,06:03:17,Delta Inc,INV-186,5512.63,Marketing,Equipment rental
+2025-07-02,02:12:51,Gamma Pvt Ltd,INV-192,7814.26,Marketing,Consulting charges
+2025-07-16,06:55:58,Beta LLC,INV-138,6425.64,HR,Consulting charges
+2025-07-30,06:47:07,Delta Inc,INV-131,4134.64,Marketing,Consulting charges
+2025-07-13,07:35:20,Beta LLC,INV-148,3652.38,Operations,Equipment rental
+2025-07-21,11:19:16,Beta LLC,INV-165,5737.88,Operations,Training session
+2025-07-04,23:30:48,Beta LLC,INV-126,3019.65,IT,Office supplies
+2025-07-14,01:36:55,Zed Solutions,INV-194,7747.19,Finance,Monthly software fee
+2025-07-09,17:59:37,Gamma Pvt Ltd,INV-192,6769.16,Operations,Office supplies
+2025-07-05,06:21:14,Delta Inc,INV-172,4296.24,Finance,Training session
+2025-07-18,20:43:21,Beta LLC,INV-197,2430.3,Operations,Training session
+2025-07-15,05:46:50,Beta LLC,INV-121,7030.81,Finance,Equipment rental
+2025-07-16,05:58:56,Gamma Pvt Ltd,INV-182,4828.19,HR,Equipment rental
+2025-07-02,02:52:42,Acme Corp,INV-197,6856.72,HR,Training session
+2025-07-05,20:14:04,Zed Solutions,INV-101,2608.36,Finance,Equipment rental
+2025-07-15,11:03:39,Gamma Pvt Ltd,INV-161,4100.94,Operations,Monthly software fee
+2025-07-01,17:35:26,Acme Corp,INV-102,5007.87,Marketing,Office supplies
+2025-07-18,09:01:32,Delta Inc,INV-122,5070.47,HR,Monthly software fee
+2025-07-17,04:15:12,Gamma Pvt Ltd,INV-167,4324.9,IT,Office supplies
+2025-07-09,12:05:23,Delta Inc,INV-158,5934.27,Marketing,Consulting charges
+2025-07-23,07:19:43,Acme Corp,INV-183,3398.57,HR,Monthly software fee
+2025-07-13,12:24:35,Delta Inc,INV-107,4786.43,HR,Consulting charges
+2025-07-03,15:54:27,Beta LLC,INV-172,5180.44,HR,Equipment rental
+2025-07-30,01:14:13,Gamma Pvt Ltd,INV-160,5771.66,IT,Monthly software fee
+2025-07-30,02:43:59,Beta LLC,INV-169,6067.42,Marketing,Monthly software fee
+2025-07-06,10:01:13,Gamma Pvt Ltd,INV-118,3313.04,Operations,Monthly software fee
+2025-07-10,05:36:15,Gamma Pvt Ltd,INV-149,2698.83,Marketing,Office supplies
+2025-07-13,23:08:50,Acme Corp,INV-164,6916.52,IT,Monthly software fee
+2025-07-04,13:14:53,Acme Corp,INV-143,5498.47,Marketing,Equipment rental
+2025-07-31,19:25:49,Beta LLC,INV-103,3877.27,IT,Training session
+2025-07-16,07:22:35,Delta Inc,INV-155,7326.73,Finance,Equipment rental
+2025-07-22,12:05:49,Gamma Pvt Ltd,INV-137,5173.51,Finance,Monthly software fee
+2025-07-03,08:09:24,Zed Solutions,INV-194,6768.95,Operations,Office supplies
+2025-07-12,03:05:00,Beta LLC,INV-156,5101.28,IT,Office supplies
+2025-07-04,04:05:11,Delta Inc,INV-157,8091.12,Marketing,Equipment rental
+2025-07-17,13:06:01,Acme Corp,INV-145,7633.01,Marketing,Monthly software fee
+2025-07-20,19:50:20,Delta Inc,INV-101,4626.55,IT,Training session
+2025-07-13,02:46:57,Gamma Pvt Ltd,INV-131,6457.36,Marketing,Equipment rental
+2025-07-06,21:24:10,Zed Solutions,INV-134,5968.06,IT,Office supplies
+2025-07-16,04:04:10,Delta Inc,INV-135,7052.95,Operations,Office supplies
+2025-07-16,02:23:16,Zed Solutions,INV-192,3552.61,Operations,Equipment rental
+2025-07-20,06:29:06,Zed Solutions,INV-138,6029.08,HR,Training session
+2025-07-11,19:24:51,Beta LLC,INV-156,6587.64,IT,Training session
+2025-07-27,20:38:08,Beta LLC,INV-141,2361.89,Marketing,Consulting charges
+2025-07-16,10:11:25,Beta LLC,INV-137,3225.11,Operations,Equipment rental
+2025-07-26,07:20:24,Beta LLC,INV-150,1941.15,IT,Monthly software fee
+2025-07-30,18:12:37,Gamma Pvt Ltd,INV-123,4595.89,Marketing,Monthly software fee
+2025-07-31,23:29:45,Zed Solutions,INV-156,6076.31,IT,Monthly software fee
+2025-07-27,13:43:31,Zed Solutions,INV-181,7253.54,IT,Consulting charges
+2025-07-09,21:09:45,Delta Inc,INV-148,5111.14,HR,Training session
+2025-07-20,15:37:25,Gamma Pvt Ltd,INV-164,7442.92,Operations,Equipment rental
+2025-07-02,11:44:57,Gamma Pvt Ltd,INV-176,2929.85,HR,Monthly software fee
+2025-07-25,07:42:42,Beta LLC,INV-121,2444.93,Marketing,Monthly software fee
+2025-07-19,20:43:41,Delta Inc,INV-196,4916.68,IT,Training session
+2025-07-04,00:06:16,Zed Solutions,INV-165,5576.1,Marketing,Equipment rental
+2025-07-19,22:36:14,Delta Inc,INV-147,4950.96,Operations,Training session
+2025-07-25,21:37:44,Gamma Pvt Ltd,INV-119,1898.84,IT,Monthly software fee
+2025-07-16,03:18:26,Acme Corp,INV-114,4866.32,Finance,Office supplies
+2025-07-10,10:29:50,Zed Solutions,INV-166,3043.3,Operations,Office supplies
+2025-07-16,03:28:46,Delta Inc,INV-140,6004.51,HR,Office supplies
+2025-07-02,22:07:01,Beta LLC,INV-182,5549.9,HR,Consulting charges
+2025-07-30,23:15:33,Zed Solutions,INV-170,3590.18,Finance,Office supplies
+2025-07-18,13:29:14,Delta Inc,INV-180,4229.2,Finance,Consulting charges
+2025-07-21,21:27:25,Acme Corp,INV-194,3411.18,Marketing,Consulting charges
+2025-07-15,18:27:24,Acme Corp,INV-190,4905.98,Finance,Consulting charges
+2025-07-09,22:51:50,Acme Corp,INV-173,6432.71,HR,Equipment rental
+2025-07-06,11:20:12,Delta Inc,INV-114,3521.41,IT,Training session
+2025-07-17,20:20:38,Delta Inc,INV-178,5756.07,Operations,Equipment rental
+2025-07-04,11:22:54,Delta Inc,INV-179,4204.61,Finance,Office supplies
+2025-07-30,19:37:05,Zed Solutions,INV-140,3810.69,HR,Consulting charges
+2025-07-10,03:11:23,Zed Solutions,INV-165,4839.45,Operations,Training session
+2025-07-20,04:36:24,Delta Inc,INV-123,3447.14,Operations,Equipment rental
+2025-07-23,20:59:11,Gamma Pvt Ltd,INV-121,4169.53,Operations,Office supplies
+2025-07-05,05:20:53,Delta Inc,INV-179,3203.18,HR,Office supplies
+2025-07-31,00:31:08,Zed Solutions,INV-149,7947.09,Marketing,Equipment rental
+2025-07-21,15:26:43,Delta Inc,INV-153,5052.9,Operations,Training session
+2025-07-06,02:36:01,Zed Solutions,INV-137,3950.41,HR,Office supplies
+2025-07-08,17:18:10,Delta Inc,INV-172,5320.97,Operations,Equipment rental
+2025-07-17,03:36:07,Beta LLC,INV-199,4831.51,Marketing,Office supplies
+2025-07-18,01:48:46,Delta Inc,INV-169,4668.55,Finance,Training session
+2025-07-04,23:53:41,Zed Solutions,INV-138,5921.25,HR,Training session
+2025-07-09,11:55:52,Acme Corp,INV-156,6136.26,HR,Consulting charges
+2025-07-07,23:37:44,Beta LLC,INV-190,4204.25,Marketing,Training session
+2025-07-06,19:08:50,Zed Solutions,INV-126,4136.27,HR,Equipment rental
+2025-07-12,17:17:38,Gamma Pvt Ltd,INV-121,4587.42,IT,Office supplies
+2025-07-10,18:17:54,Gamma Pvt Ltd,INV-186,1547.12,HR,Consulting charges
+2025-07-31,13:58:03,Beta LLC,INV-183,2727.21,Finance,Consulting charges
+2025-07-08,04:45:20,Zed Solutions,INV-197,7050.31,Operations,Training session
+2025-07-05,18:40:17,Delta Inc,INV-148,7467.45,Operations,Monthly software fee
+2025-07-21,02:25:32,Beta LLC,INV-188,4626.45,IT,Training session
+2025-07-31,15:20:37,Acme Corp,INV-199,5864.84,HR,Training session
+2025-07-21,21:44:22,Acme Corp,INV-168,5466.88,Operations,Consulting charges
+2025-07-31,13:52:13,Delta Inc,INV-134,9618.32,IT,Office supplies
+2025-07-11,17:36:08,Gamma Pvt Ltd,INV-162,6679.36,IT,Monthly software fee
+2025-07-02,03:40:50,Delta Inc,INV-102,4808.12,HR,Consulting charges
+2025-07-15,14:00:27,Zed Solutions,INV-188,3566.69,Finance,Office supplies
+2025-07-06,08:05:41,Beta LLC,INV-132,2590.33,HR,Office supplies
+2025-07-22,20:10:03,Delta Inc,INV-180,5305.2,IT,Consulting charges
+2025-07-14,20:05:45,Acme Corp,INV-100,3865.47,Finance,Training session
+2025-07-03,04:37:14,Gamma Pvt Ltd,INV-187,2866.62,Operations,Monthly software fee
+2025-07-01,22:21:52,Acme Corp,INV-154,4030.14,Finance,Training session
+2025-07-03,07:24:05,Acme Corp,INV-113,3377.68,IT,Office supplies
+2025-07-29,09:08:24,Zed Solutions,INV-182,7530.71,Finance,Monthly software fee
+2025-07-17,18:00:39,Zed Solutions,INV-156,6322.46,IT,Consulting charges
+2025-07-21,23:09:58,Delta Inc,INV-178,4988.04,Operations,Consulting charges
+2025-07-03,03:08:48,Acme Corp,INV-175,7219.92,Operations,Office supplies
+2025-07-31,13:20:50,Zed Solutions,INV-131,5116.05,IT,Monthly software fee
+2025-07-08,17:38:38,Gamma Pvt Ltd,INV-136,3708.07,HR,Office supplies
+2025-07-07,16:38:32,Zed Solutions,INV-195,7284.69,Operations,Office supplies
+2025-07-21,01:50:57,Zed Solutions,INV-163,5808.37,Operations,Monthly software fee
+2025-07-08,15:40:38,Acme Corp,INV-167,3444.13,HR,Office supplies
+2025-07-30,10:08:24,Gamma Pvt Ltd,INV-153,4714.49,IT,Equipment rental
+2025-07-22,05:48:30,Acme Corp,INV-102,3686.57,Marketing,Monthly software fee
+2025-07-01,08:13:02,Acme Corp,INV-150,2925.8,Marketing,Office supplies
